@@ -1,0 +1,55 @@
+[2024-02-27 22:23:55] [ INFO ] [OdontologoDAOH2:48] ID: null
+[2024-02-27 22:23:55] [ INFO ] [OdontologoDAOH2:48] ID: null
+[2024-02-27 22:23:55] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 22:23:55] [ ERROR] [OdontologoDAOH2:71] ERROR: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+SELECT *  FROM ODONTOLOGO [42104-214]
+[2024-02-27 22:23:55] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; []
+[2024-02-27 22:27:11] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 22:27:11] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 22:27:11] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 22:27:11] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Odontologo{Id=null, apellido='null', nombre='null', matricula='null'}, Odontologo{Id=null, apellido='null', nombre='null', matricula='null'}]
+[2024-02-27 22:36:35] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 22:36:35] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 22:36:35] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 22:36:35] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Odontologo{Id=null, apellido='null', nombre='null', matricula='null'}, Odontologo{Id=null, apellido='null', nombre='null', matricula='null'}]
+[2024-02-27 22:40:16] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 22:40:16] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 22:40:16] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 22:40:16] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Odontologo: Id = null, Sr./Sra. nullnull', Nro. de matricula= null, Odontologo: Id = null, Sr./Sra. nullnull', Nro. de matricula= null]
+[2024-02-27 22:41:36] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 22:41:36] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 22:41:36] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 22:41:36] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null, Id = null, Sr./Sra. null null, matricula= null]
+[2024-02-27 22:42:03] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 22:42:03] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 22:42:03] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 22:42:03] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:33:06] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:33:06] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:33:06] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:33:06] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:34:01] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:34:01] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:34:01] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:34:01] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:34:44] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:34:44] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:34:44] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:34:44] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:36:12] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:36:12] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:36:12] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:36:12] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:37:08] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:37:08] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:37:08] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:37:08] [ INFO ] [OdontologoDAOH2:80] La lista de Odontologos es; [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:38:01] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:38:01] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:38:01] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:38:42] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:38:42] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:80] [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
