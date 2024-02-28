@@ -53,3 +53,15 @@ SELECT *  FROM ODONTOLOGO [42104-214]
 [2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:48] ID: 2
 [2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
 [2024-02-27 23:39:21] [ INFO ] [OdontologoDAOH2:80] [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:54:16] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:54:17] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:54:17] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:54:17] [ INFO ] [OdontologoDAOH2:80] [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-27 23:58:41] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-27 23:58:41] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-27 23:58:41] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-27 23:58:41] [ INFO ] [OdontologoDAOH2:79] [Id = null, Sr./Sra. null null, matricula= null / , Id = null, Sr./Sra. null null, matricula= null / ]
+[2024-02-28 00:01:51] [ INFO ] [OdontologoDAOH2:48] ID: 1
+[2024-02-28 00:01:51] [ INFO ] [OdontologoDAOH2:48] ID: 2
+[2024-02-28 00:01:51] [ INFO ] [OdontologoDAOH2:53] Consultamos todos los odontologos: 
+[2024-02-28 00:01:51] [ INFO ] [OdontologoDAOH2:88] [Id = 1, Sr./Sra. Carlos H12h, matricula= Martinez / , Id = 2, Sr./Sra. Milton N34N, matricula= Rodriguez / ]

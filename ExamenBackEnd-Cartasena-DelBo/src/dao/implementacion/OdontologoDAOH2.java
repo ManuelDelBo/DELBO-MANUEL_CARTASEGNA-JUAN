@@ -55,7 +55,6 @@ public class OdontologoDAOH2 implements IDao<Odontologo> {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
         List<Odontologo> odontologos = new ArrayList<>();
-        Odontologo odontologo1 = null;
 
         try {
             connection = BDOdontologo.getConnection();
@@ -63,16 +62,25 @@ public class OdontologoDAOH2 implements IDao<Odontologo> {
             ResultSet resultSet = preparedStatement.executeQuery();
 
             while (resultSet.next()) {
-                odontologo1 = new Odontologo(resultSet.getInt(1), resultSet.getString(2), resultSet.getString(3), resultSet.getString(4));
-                odontologos.add(odontologo1);
+                Odontologo odontologo = new Odontologo();
+                odontologo.setId(resultSet.getInt(1));
+                odontologo.setNombre(resultSet.getString(2));
+                odontologo.setApellido(resultSet.getString(3));
+                odontologo.setMatricula(resultSet.getString(4));
+                odontologos.add(odontologo);
             }
 
         } catch (Exception e) {
             LOGGER.error("ERROR: " + e.getMessage());
             e.printStackTrace();
-        }  finally {
+        } finally {
             try {
-                connection.close();
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+                if (connection != null) {
+                    connection.close();
+                }
             } catch (Exception e) {
                 e.printStackTrace();
             }
